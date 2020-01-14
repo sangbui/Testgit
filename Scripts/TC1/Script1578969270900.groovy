@@ -16,3 +16,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
 println 'Hello Git 123'
+println 'Hello Git 123'
+println 'Hello Git 123'
+println 'Hello Git 123'
